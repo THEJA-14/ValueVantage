@@ -403,4 +403,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/3RaoOZg",
     category: "Health & Fitness",
   },
+  {
+    id: 58,
+    name: "Desk Pillow Napping",
+    image: "https://m.media-amazon.com/images/I/71qMxDnlOlL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4uf1Mib",
+    category: "Travel Accessories",
+  },
 ];
