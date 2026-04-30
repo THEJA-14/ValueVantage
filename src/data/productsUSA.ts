@@ -204,5 +204,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71qnZrqlXrL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4t2vENN",
     category: "Health & Fitness",
+  },
+  {
+    id: 30,
+    name: "Foldable Portable Desk Pillow for Napping",
+    image: "https://m.media-amazon.com/images/I/61JxS1l93WL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4w7nDtY",
+    category: "Travel Accessories",
   }
 ];
