@@ -197,5 +197,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/61xY5x1JAkL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4cHphJN",
     category: "Electronics",
+  },
+  {
+    id: 29,
+    name: "Gel Seat Cushion",
+    image: "https://m.media-amazon.com/images/I/71qnZrqlXrL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4t2vENN",
+    category: "Health & Fitness",
   }
 ];
