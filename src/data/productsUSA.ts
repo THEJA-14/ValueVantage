@@ -218,5 +218,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/61vXTHprVfL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/48AUkpt",
     category: "Kitchen",
+  },
+  {
+    id: 32,
+    name: "Faucet Hanging Strainer",
+    image: "https://m.media-amazon.com/images/I/61-ybl0hhFL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tQCyXH",
+    category: "Kitchen",
   }
 ];
