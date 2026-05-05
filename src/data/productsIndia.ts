@@ -417,4 +417,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/425UgdF",
     category: "Kitchen",
   },
+  {
+    id: 60,
+    name: "Sink Drain Strainer Basket",
+    image: "https://m.media-amazon.com/images/I/619E0Q3LPuL._SL1487_.jpg",
+    affiliateUrl: "https://amzn.to/4est00q",
+    category: "Kitchen",
+  },
 ];
