@@ -424,4 +424,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4est00q",
     category: "Kitchen",
   },
+  {
+    id: 61,
+    name: "Mini Foldable Desktop Mop",
+    image: "https://m.media-amazon.com/images/I/61fVG6N77wL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tWNpzw",
+    category: "Kitchen",
+  }
 ];
