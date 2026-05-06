@@ -225,5 +225,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/61-ybl0hhFL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4tQCyXH",
     category: "Kitchen",
+  },
+  {
+    id: 33,
+    name: "Mini Foldable Desktop Mop",
+    image: "https://m.media-amazon.com/images/I/71H9u6zQfHL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tftpqE",
+    category: "Kitchen",
   }
 ];
