@@ -437,5 +437,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/61hpaDG9hRL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4tjlEQi",
     category: "Beauty",
+  },
+  {
+    id: 63,
+    name: "Silicone Door Handle Cover with Suction Cup",
+    image: "https://m.media-amazon.com/images/I/51UtTT3DXxL._SL1024_.jpg",
+    affiliateUrl: "https://amzn.to/48Mq4Ig",
+    category: "Home Improvements",
   }
 ];
