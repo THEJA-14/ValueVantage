@@ -434,8 +434,8 @@ export const productsIndia: Product[] = [
   {
     id: 62,
     name: "Electric Nail Clipper",
-    image: "https://m.media-amazon.com/images/I/518scjTSVdL.jpg",
-    affiliateUrl: "https://amzn.to/3RqWAJV",
+    image: "https://m.media-amazon.com/images/I/61hpaDG9hRL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tjlEQi",
     category: "Beauty",
   }
 ];
