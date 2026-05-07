@@ -239,5 +239,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/81rMlgkWrQL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3P92D55",
     category: "Beauty",
+  },
+  {
+    id: 35,
+    name: "Door Handle Covers with Anti-Collision Suction Cup",
+    image: "https://m.media-amazon.com/images/I/51v-GiTNt2L._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4whhL11",
+    category: "Home Improvements",
   }
 ];
