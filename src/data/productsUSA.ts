@@ -232,5 +232,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71H9u6zQfHL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4tftpqE",
     category: "Kitchen",
+  },
+  {
+    id: 34,
+    name: "Electric Nail Clipper",
+    image: "https://m.media-amazon.com/images/I/81rMlgkWrQL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3P92D55",
+    category: "Beauty",
   }
 ];
