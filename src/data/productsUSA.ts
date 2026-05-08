@@ -246,5 +246,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/51v-GiTNt2L._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4whhL11",
     category: "Home Improvements",
+  },
+  {
+    id: 36,
+    name: "Clip on Strainer",
+    image: "https://m.media-amazon.com/images/I/61UGmcgEbdS._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4eSZfWP",
+    category: "Kitchen",
   }
 ];
