@@ -444,5 +444,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/51UtTT3DXxL._SL1024_.jpg",
     affiliateUrl: "https://amzn.to/48Mq4Ig",
     category: "Home Improvements",
+  },
+  {
+    id: 64,
+    name: "Clip on Silicone Strainer",
+    image: "https://m.media-amazon.com/images/I/61UGmcgEbdS._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4eAxkL2",
+    category: "Kitchen",
   }
 ];
