@@ -253,5 +253,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/61UGmcgEbdS._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4eSZfWP",
     category: "Kitchen",
+  },
+  {
+    id: 37,
+    name: "Bed Maker Tool for Changing Bed",
+    image: "https://m.media-amazon.com/images/I/71wdtfFNLeL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4uy3CuF",
+    category: "Home Improvements",
   }
 ];
