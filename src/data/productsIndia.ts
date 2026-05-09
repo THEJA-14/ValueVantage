@@ -451,5 +451,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/61UGmcgEbdS._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4eAxkL2",
     category: "Kitchen",
+  },
+  {
+    id: 65,
+    name: "Bedsheet Tucker Tool for Bed Making",
+    image: "https://m.media-amazon.com/images/I/71bn0SRFSbL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tlDum1",
+    category: "Home Improvements",
   }
 ];
