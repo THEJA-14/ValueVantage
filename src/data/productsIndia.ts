@@ -466,4 +466,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4nlb7D3",
     category: "Electronics",
   },
+  {
+    id: 67,
+    name: "Drawing Projector Table Set",
+    image: "https://m.media-amazon.com/images/I/71C+vkIRibL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4uEePdc",
+    category: "Toys",
+  },
 ];
