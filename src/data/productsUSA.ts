@@ -260,5 +260,13 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71wdtfFNLeL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4uy3CuF",
     category: "Home Improvements",
+  },
+  {
+    id: 38,
+    name: "Portable Printers Wireless for Travel",
+    image: "https://m.media-amazon.com/images/I/71i3so9+vuL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4ukRcXH",
+    category: "Electronics",
   }
+
 ];
