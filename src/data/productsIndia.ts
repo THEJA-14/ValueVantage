@@ -458,5 +458,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/71bn0SRFSbL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4tlDum1",
     category: "Home Improvements",
-  }
+  },
+  {
+    id: 66,
+    name: "A4 Portable Printer",
+    image: "https://m.media-amazon.com/images/I/61a9enSQLNL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4nlb7D3",
+    category: "Electronics",
+  },
 ];
