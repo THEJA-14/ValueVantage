@@ -267,6 +267,14 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71i3so9+vuL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4ukRcXH",
     category: "Electronics",
+  },
+  {
+    id: 39,
+    name: "Drawing Projector for Kids",
+    image: "https://m.media-amazon.com/images/I/71zKu447spL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4u65Q4O",
+    category: "Toys",
   }
+
 
 ];
