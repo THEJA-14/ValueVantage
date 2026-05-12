@@ -274,6 +274,13 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71zKu447spL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4u65Q4O",
     category: "Toys",
+  },
+  {
+    id: 40,
+    name: "Shower Foot Rest with Suction Cup",
+    image: "https://m.media-amazon.com/images/I/41j9Xo6nbbL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/49GjaVa",
+    category: "Health & Fitness",
   }
 
 
