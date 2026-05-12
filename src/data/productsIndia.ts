@@ -473,4 +473,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4uEePdc",
     category: "Toys",
   },
+  {
+    id: 68,
+    name: "Shower Foot Rest with Suction Cup",
+    image: "https://m.media-amazon.com/images/I/41j9Xo6nbbL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3QUIeS9",
+    category: "Health & Fitness",
+  }
 ];
