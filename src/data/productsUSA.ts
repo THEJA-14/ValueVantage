@@ -281,7 +281,14 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/41j9Xo6nbbL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/49GjaVa",
     category: "Health & Fitness",
-  }
+  },
+  {
+    id: 41,
+    name: "Spiral Laundry Drying Rack Set",
+    image: "https://m.media-amazon.com/images/I/61cMDhfGg7L._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4wGdTHk",
+    category: "Home Improvements",
+  },
 
 
 ];
