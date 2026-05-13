@@ -479,5 +479,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/41j9Xo6nbbL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3QUIeS9",
     category: "Health & Fitness",
-  }
+  },
+  {
+    id: 69,
+    name: "Round Bed Sheet Drying Rack",
+    image: "https://m.media-amazon.com/images/I/21QmeIQFWvL.jpg",
+    affiliateUrl: "https://amzn.to/4ubmGiK",
+    category: "Home Improvements",
+  },
 ];
