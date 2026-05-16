@@ -493,6 +493,13 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/519Nm83Q-xL.jpg",
     affiliateUrl: "https://amzn.to/43bqwwh",
     category: "Garden",
+  },
+  {
+    id: 71,
+    name: "Korean Fashion Matte Hair Claw Clips",
+    image: "https://m.media-amazon.com/images/I/61LWDyVbz4L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tDHmig",
+    category: "Beauty",
   }
 
 ];
