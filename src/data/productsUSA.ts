@@ -289,6 +289,13 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4wGdTHk",
     category: "Home Improvements",
   },
+  {
+    id: 42,
+    name: "Home High Pressure Water Gun with Booster Nozzle",
+    image: "https://m.media-amazon.com/images/I/61IlKQMRhhL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3Rf72UT",
+    category: "Garden",
+  }
 
 
 ];
