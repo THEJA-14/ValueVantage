@@ -487,4 +487,12 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4ubmGiK",
     category: "Home Improvements",
   },
+  {
+    id: 70,
+    name: "Water High Pressure Nozzle Spray Water Gun Jet",
+    image: "https://m.media-amazon.com/images/I/519Nm83Q-xL.jpg",
+    affiliateUrl: "https://amzn.to/43bqwwh",
+    category: "Garden",
+  }
+
 ];
