@@ -295,6 +295,13 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/61IlKQMRhhL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3Rf72UT",
     category: "Garden",
+  },
+  {
+    id: 43,
+    name: "Mello Flexible Claw Clip",
+    image: "https://m.media-amazon.com/images/I/61x1lwV5GsL._SX679_.jpg",
+    affiliateUrl: "https://amzn.to/4wy9eXD",
+    category: "Beauty",
   }
 
 
