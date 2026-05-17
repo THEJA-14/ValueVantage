@@ -310,6 +310,13 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/3ReLJmv",
     category: "Health & Fitness",
   },
+  {
+    id: 45,
+    name: "Human Dog Bed for Adult",
+    image: "https://m.media-amazon.com/images/I/81LKweW80zL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/49RfakM",
+    category: "Home Improvements",
+  },
 
 
 ];
