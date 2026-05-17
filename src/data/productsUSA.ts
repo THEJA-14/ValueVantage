@@ -302,7 +302,14 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/61x1lwV5GsL._SX679_.jpg",
     affiliateUrl: "https://amzn.to/4wy9eXD",
     category: "Beauty",
-  }
+  },
+  {
+    id: 44,
+    name: "Neck and Shoulder Relaxer",
+    image: "https://m.media-amazon.com/images/I/71E1iRL3ynL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3ReLJmv",
+    category: "Health & Fitness",
+  },
 
 
 ];
