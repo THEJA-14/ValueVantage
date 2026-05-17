@@ -507,6 +507,15 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/51JpU1IqIDL._SL1024_.jpg",
     affiliateUrl: "https://amzn.to/3R5Y8Jt",
     category: "Health & Fitness",
-  }
+  },
+  {
+    id: 73,
+    name: "1 Seater Luxurious Sofa",
+    image: "https://m.media-amazon.com/images/I/511JKEoSWOL.jpg",
+    affiliateUrl: "https://amzn.to/4eSKNxW",
+    category: "Home Improvements",
+  },
+
+
 
 ];
