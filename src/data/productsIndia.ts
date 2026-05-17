@@ -500,6 +500,13 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/61LWDyVbz4L._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4tDHmig",
     category: "Beauty",
+  },
+  {
+    id: 72,
+    name: "Neck Support Stretcher",
+    image: "https://m.media-amazon.com/images/I/51JpU1IqIDL._SL1024_.jpg",
+    affiliateUrl: "https://amzn.to/3R5Y8Jt",
+    category: "Health & Fitness",
   }
 
 ];
