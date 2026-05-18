@@ -317,6 +317,12 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/49RfakM",
     category: "Home Improvements",
   },
-
+  {
+    id: 46,
+    name: "Pop up Multifunction Pencil Case for Kids",
+    image: "https://m.media-amazon.com/images/I/81I8hHrH+cL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tKLBZo",
+    category: "Toys",
+  },
 
 ];
