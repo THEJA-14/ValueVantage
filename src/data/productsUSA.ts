@@ -324,5 +324,12 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4tKLBZo",
     category: "Toys",
   },
+  {
+    id: 47,
+    name: "Portable Camping Shower",
+    image: "https://m.media-amazon.com/images/I/71GPUBE7CrL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4fsqLuc",
+    category: "Travel Accessories",
+  },
 
 ];
