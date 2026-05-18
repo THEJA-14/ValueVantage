@@ -515,7 +515,13 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4eSKNxW",
     category: "Home Improvements",
   },
-
+  {
+    id: 74,
+    name: "6-in-1 Multifunctional Pen Pencil Case",
+    image: "https://m.media-amazon.com/images/I/41ZA9mb8LCL._SL1200_.jpg",
+    affiliateUrl: "https://amzn.to/4dAJRMt",
+    category: "Toys",
+  },
 
 
 ];
