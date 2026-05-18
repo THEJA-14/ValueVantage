@@ -522,6 +522,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4dAJRMt",
     category: "Toys",
   },
-
-
+  {
+    id: 75,
+    name: "Portable Camping Shower",
+    image: "https://m.media-amazon.com/images/I/61UKEGi4BQL._SL1407_.jpg",
+    affiliateUrl: "https://amzn.to/43dQ5wG",
+    category: "Travel Accessories",
+  },
 ];
