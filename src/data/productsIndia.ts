@@ -529,4 +529,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/43dQ5wG",
     category: "Travel Accessories",
   },
+  {
+    id: 76 ,
+    name: "4 in 1 Travel Size Dispenser Bottle Set",
+    image: "https://m.media-amazon.com/images/I/41CcL32KXZL._SL1000_.jpg",
+    affiliateUrl: "https://amzn.to/3PPy8Sb",
+    category: "Travel Accessories",
+  },
 ];
