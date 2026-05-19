@@ -536,4 +536,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/3PPy8Sb",
     category: "Travel Accessories",
   },
+  {
+    id: 77,
+    name: "Mini Portable Thermal Printer",
+    image: "https://m.media-amazon.com/images/I/512MgqvKUgL._SL1000_.jpg",
+    affiliateUrl: "https://amzn.to/4dz9gG6",
+    category: "Electronics",
+  },
 ];
