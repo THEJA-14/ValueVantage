@@ -338,5 +338,12 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4dFR2D8",
     category: "Travel Accessories",
   },
+  {
+    id: 49,
+    name: "HP Sprocket Portable Photo Printer",
+    image: "https://m.media-amazon.com/images/I/813bxQXI3gL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4dk5t0v",
+    category: "Electronics",
+  },
 
 ];
