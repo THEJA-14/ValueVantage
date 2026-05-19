@@ -331,5 +331,12 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4fsqLuc",
     category: "Travel Accessories",
   },
+  {
+    id: 48,
+    name: "4 in 1 Travel Dispenser",
+    image: "https://m.media-amazon.com/images/I/51kAVbv8rEL._AC_.jpg",
+    affiliateUrl: "https://amzn.to/4dFR2D8",
+    category: "Travel Accessories",
+  },
 
 ];
