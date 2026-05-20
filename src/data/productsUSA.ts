@@ -345,5 +345,12 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4dk5t0v",
     category: "Electronics",
   },
+  {
+    id: 50,
+    name: "Magnetic Phone Holders for Cars",
+    image: "https://m.media-amazon.com/images/I/71qHi2sirmL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/43itY8m",
+    category: "Travel Accessories",
+  }
 
 ];
