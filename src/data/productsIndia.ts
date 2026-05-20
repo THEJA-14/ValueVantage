@@ -543,4 +543,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4dz9gG6",
     category: "Electronics",
   },
+  {
+    id: 78,
+    name: "360° Vacuum Magnetic Car Phone Mount",
+    image: "https://m.media-amazon.com/images/I/61IT6XDX+AL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4dTXTdb",
+    category: "Travel Accessories",
+  }
 ];
