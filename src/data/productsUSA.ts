@@ -361,9 +361,9 @@ export const productsUSA: Product[] = [
   },
   {
     id: 52,
-    name: "Slap Chop Slicer Chopper",
-    image: "https://m.media-amazon.com/images/I/71XDtdreKCL._AC_SL1500_.jpg",
-    affiliateUrl: "https://amzn.to/3PUpFgz",
+    name: "Manual Hand Push Food Chopper",
+    image: "https://m.media-amazon.com/images/I/61VkcRz4mRL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3PsFECp",
     category: "Kitchen",
   },
 
