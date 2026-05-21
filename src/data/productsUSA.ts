@@ -351,6 +351,13 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71qHi2sirmL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/43itY8m",
     category: "Travel Accessories",
+  },
+  {
+    id: 51,
+    name: "Travel Slippers Shower Shoes For Men Women",
+    image: "https://m.media-amazon.com/images/I/71uHL4lZ8BL._AC_SY695_.jpg",
+    affiliateUrl: "https://amzn.to/4eZyujs",
+    category: "Shoes & Sandals",
   }
 
 ];
