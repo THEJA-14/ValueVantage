@@ -358,6 +358,13 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71uHL4lZ8BL._AC_SY695_.jpg",
     affiliateUrl: "https://amzn.to/4eZyujs",
     category: "Shoes & Sandals",
-  }
+  },
+  {
+    id: 52,
+    name: "Slap Chop Slicer Chopper",
+    image: "https://m.media-amazon.com/images/I/71XDtdreKCL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3PUpFgz",
+    category: "Kitchen",
+  },
 
 ];
