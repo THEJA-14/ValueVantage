@@ -549,5 +549,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/61IT6XDX+AL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4dTXTdb",
     category: "Travel Accessories",
+  },
+  {
+    id: 79,
+    name: "Foldable Foot Massage Slippers Travel",
+    image: "https://m.media-amazon.com/images/I/51VyzEhar2L.jpg",
+    affiliateUrl: "https://amzn.to/4tRSNDc",
+    category: "Shoes & Sandals",
   }
 ];
