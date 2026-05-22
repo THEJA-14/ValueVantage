@@ -571,4 +571,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4tTUuzL",
     category: "Kitchen",
   },
+  {
+    id: 82,
+    name: "Meat Baller Maker",
+    image: "https://m.media-amazon.com/images/I/5116pgfA9SL.jpg",
+    affiliateUrl: "https://amzn.to/4wPQxPE",
+    category: "Kitchen",
+  },
 ];
