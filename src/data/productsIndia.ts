@@ -564,4 +564,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4v1q67x",
     category: "Kitchen",
   },
+  {
+    id: 81,
+    name: "Lime Squeezer",
+    image: "https://m.media-amazon.com/images/I/61FjWbIwJDL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tTUuzL",
+    category: "Kitchen",
+  },
 ];
