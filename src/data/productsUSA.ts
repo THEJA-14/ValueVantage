@@ -373,5 +373,12 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4v2iS3c",
     category: "Kitchen",
   },
+  {
+    id: 54,
+    name: "Meat Ball Scoop with Cutting Spade Ball Maker",
+    image: "https://m.media-amazon.com/images/I/61MbGEKdN6L._AC_SL1001_.jpg",
+    affiliateUrl: "https://amzn.to/4wFLiSt",
+    category: "Kitchen",
+  },
 
 ];
