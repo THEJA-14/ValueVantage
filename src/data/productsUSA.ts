@@ -366,5 +366,12 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/3PsFECp",
     category: "Kitchen",
   },
+  {
+    id: 53,
+    name: "Manual Lemon Squeezer",
+    image: "https://m.media-amazon.com/images/I/61WCiW4GUsL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4v2iS3c",
+    category: "Kitchen",
+  },
 
 ];
