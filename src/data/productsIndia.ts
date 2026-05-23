@@ -578,4 +578,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4wPQxPE",
     category: "Kitchen",
   },
+  {
+    id: 83,
+    name: "Quirk drawer 5 Grid Organizer",
+    image: "https://m.media-amazon.com/images/I/51S0rpasmHL.jpg",
+    affiliateUrl: "https://amzn.to/4tQ7l64",
+    category: "Home Improvements",
+  },
 ];
