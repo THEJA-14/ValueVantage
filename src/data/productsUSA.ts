@@ -380,5 +380,12 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4wFLiSt",
     category: "Kitchen",
   },
+  {
+    id: 55,
+    name: "Wall Mount Drawer Organizer",
+    image: "https://m.media-amazon.com/images/I/61nOPe8DgYL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4uZyTqD",
+    category: "Home Improvements",
+  },
 
 ];
