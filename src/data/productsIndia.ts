@@ -599,4 +599,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4wP9qSq",
     category: "Electronics",
   },
+  {
+    id: 86,
+    name: "Broom Mop Holder Wall Mount Stainless Steel",
+    image: "https://m.media-amazon.com/images/I/81grdeCCvAL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4dGmhOe",
+    category: "Home Improvements",
+  },
 ];
