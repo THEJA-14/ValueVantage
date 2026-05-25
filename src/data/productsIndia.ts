@@ -585,4 +585,18 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4tQ7l64",
     category: "Home Improvements",
   },
+  {
+    id: 84,
+    name: "360° Vacuum Magnetic Car Phone Mount",
+    image: "https://m.media-amazon.com/images/I/61IT6XDX+AL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4dTXTdb",
+    category: "Travel Accessories",
+  },
+  {
+    id: 85,
+    name: "Portable Iron for Clothes Travelling",
+    image: "https://m.media-amazon.com/images/I/71zz-XP10SL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4wP9qSq",
+    category: "Electronics",
+  },
 ];
