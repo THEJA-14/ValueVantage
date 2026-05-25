@@ -387,5 +387,12 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4uZyTqD",
     category: "Home Improvements",
   },
+  {
+    id: 56,
+    name: "Mini Travel Iron",
+    image: "https://m.media-amazon.com/images/I/61vAcTpKZ-L._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4dHCfYt",
+    category: "Electronics",
+  },
 
 ];
