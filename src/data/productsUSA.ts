@@ -394,5 +394,11 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4dHCfYt",
     category: "Electronics",
   },
-
+  {
+    id: 57,
+    name: "Heavy Duty Wall Mount Broom and Mop Holder",
+    image: "https://m.media-amazon.com/images/I/71AKfYxflpL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3PN9Tnw",
+    category: "Home Improvements",
+  }
 ];
