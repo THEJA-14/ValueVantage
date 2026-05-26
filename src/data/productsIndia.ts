@@ -606,4 +606,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4dGmhOe",
     category: "Home Improvements",
   },
+  {
+    id: 87,
+    name: "Flexible Foldable Phone Holder",
+    image: "https://m.media-amazon.com/images/I/51y6eD9M1HL._SL1000_.jpg",
+    affiliateUrl: "https://amzn.to/4o9s0RH",
+    category: "Electronics",
+  },
 ];
