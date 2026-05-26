@@ -400,5 +400,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71AKfYxflpL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3PN9Tnw",
     category: "Home Improvements",
+  },
+  {
+    id: 58,
+    name: "Flexible Silicone Aluminum Phone Holder",
+    image: "https://m.media-amazon.com/images/I/61IRApjzoZL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4nQCCo1",
+    category: "Electronics",
   }
 ];
