@@ -407,5 +407,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/61IRApjzoZL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4nQCCo1",
     category: "Electronics",
-  }
+  },
+  {
+    id: 59,
+    name: "Cloth Washing Soap Roller Dispenser",
+    image: "https://m.media-amazon.com/images/I/61guJZu4JyL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4ofOTCZ",
+    category: "Home Improvements",
+  },
 ];
