@@ -613,4 +613,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://amzn.to/4o9s0RH",
     category: "Electronics",
   },
+  {
+    id: 88,
+    name: "Cloth Washing Soap Roller Dispenser",
+    image: "https://m.media-amazon.com/images/I/61ueDY3Z1KL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4eerAVx",
+    category: "Home Improvements",
+  }
 ];
