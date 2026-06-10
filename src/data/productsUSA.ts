@@ -415,4 +415,11 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4ofOTCZ",
     category: "Home Improvements",
   },
+  {
+    id: 89,
+    name: "360° Rotating Folding Hook",
+    image: "https://m.media-amazon.com/images/I/51yVaLWSGAL._AC_SL1314_.jpg",
+    affiliateUrl: "https://amzn.to/43rVCA0",
+    category: "Home Improvements",
+  }
 ];
