@@ -619,5 +619,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/61ueDY3Z1KL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4eerAVx",
     category: "Home Improvements",
+  },
+  {
+    id: 89,
+    name: "360° Rotating Folding Hook",
+    image: "https://m.media-amazon.com/images/I/616oxIk-4LL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4xrMYzp",
+    category: "Home Improvements",
   }
 ];
