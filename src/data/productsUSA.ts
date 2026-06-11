@@ -416,10 +416,17 @@ export const productsUSA: Product[] = [
     category: "Home Improvements",
   },
   {
-    id: 89,
+    id: 60,
     name: "360° Rotating Folding Hook",
     image: "https://m.media-amazon.com/images/I/51yVaLWSGAL._AC_SL1314_.jpg",
     affiliateUrl: "https://amzn.to/43rVCA0",
+    category: "Home Improvements",
+  },
+  {
+    id: 61,
+    name: "Collapsible Laundry Basket",
+    image: "https://m.media-amazon.com/images/I/61Z3qqD3dxL._AC_SL1254_.jpg",
+    affiliateUrl: "https://amzn.to/4uqT53Z",
     category: "Home Improvements",
   }
 ];
