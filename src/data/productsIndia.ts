@@ -626,5 +626,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/616oxIk-4LL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4xrMYzp",
     category: "Home Improvements",
+  },
+  {
+    id: 90,
+    name: "Plastic Hanging Laundry Basket",
+    image: "https://m.media-amazon.com/images/I/51fkt--JacL._SL1024_.jpg",
+    affiliateUrl: "https://amzn.to/4vCYmGM",
+    category: "Home Improvements",
   }
 ];
