@@ -428,5 +428,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/61Z3qqD3dxL._AC_SL1254_.jpg",
     affiliateUrl: "https://amzn.to/4uqT53Z",
     category: "Home Improvements",
-  }
+  },
+  {
+    id: 62,
+    name: "USB Night Light",
+    image: "https://m.media-amazon.com/images/I/51hhPR1j3QL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4ei049u",
+    category: "Electronics",
+  },
 ];
