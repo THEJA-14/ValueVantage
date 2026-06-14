@@ -633,5 +633,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/51fkt--JacL._SL1024_.jpg",
     affiliateUrl: "https://amzn.to/4vCYmGM",
     category: "Home Improvements",
-  }
+  },
+  {
+    id: 91,
+    name: "USB Led Lamp Night Light",
+    image: "https://m.media-amazon.com/images/I/61srPqZlKPL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3SEPn9K",
+    category: "Electronics",
+  },
 ];
