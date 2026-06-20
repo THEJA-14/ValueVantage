@@ -436,4 +436,11 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4ei049u",
     category: "Electronics",
   },
+  {
+    id: 63,
+    name: "Anti-Slip Car Dashboard Mat",
+    image: "https://m.media-amazon.com/images/I/81e1dTzeMOL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4b3zO1J",
+    category: "Travel Accessories",
+  }
 ];
