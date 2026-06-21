@@ -442,5 +442,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/81e1dTzeMOL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4b3zO1J",
     category: "Travel Accessories",
+  },
+  {
+    id: 64,
+    name: "Expanding File Folder Organizer",
+    image: "https://m.media-amazon.com/images/I/81aosZunrWL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4vjISrv",
+    category: "Travel Accessories",
   }
 ];
