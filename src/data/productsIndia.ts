@@ -640,5 +640,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/61PPPusLI4L._SL1080_.jpg",
     affiliateUrl: "https://link.amazon/B0fu3PqJx",
     category: "Travel Accessories",
+  },
+  {
+    id: 92,
+    name: "Expanding File Folder",
+    image: "https://m.media-amazon.com/images/I/61m6nB7BvEL._SL1500_.jpg",
+    affiliateUrl: "https://link.amazon/B09gfBPb7",
+    category: "Travel Accessories",
   }
 ];
