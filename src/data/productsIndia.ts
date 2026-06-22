@@ -647,5 +647,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/61m6nB7BvEL._SL1500_.jpg",
     affiliateUrl: "https://link.amazon/B09gfBPb7",
     category: "Travel Accessories",
-  }
+  },
+  {
+    id: 93,
+    name: "3 in 1 Cleaning Brush for Bottle Cap",
+    image: "https://m.media-amazon.com/images/I/61mr4QFdRwL._SL1500_.jpg",
+    affiliateUrl: "https://link.amazon/B0hfylgwP",
+    category: "Kitchen",
+  },
 ];
