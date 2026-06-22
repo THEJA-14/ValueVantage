@@ -449,5 +449,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/81aosZunrWL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4vjISrv",
     category: "Travel Accessories",
-  }
+  },
+  {
+    id: 65,
+    name: "3 in 1 Cleaning Brush for Bottle Cap",
+    image: "https://m.media-amazon.com/images/I/71phifcFHLL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3SCdxSk",
+    category: "Kitchen",
+  },
 ];
