@@ -629,7 +629,7 @@ export const productsIndia: Product[] = [
   },
   {
     id: 90,
-    name: "USB Led Lamp Night Light",
+    name: "USB LED Lamp Night Light",
     image: "https://m.media-amazon.com/images/I/61srPqZlKPL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3SEPn9K",
     category: "Electronics",
@@ -654,5 +654,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/61mr4QFdRwL._SL1500_.jpg",
     affiliateUrl: "https://link.amazon/B0hfylgwP",
     category: "Kitchen",
+  },
+  {
+    id: 94,
+    name: "Spin Mop & Bucket Floor Cleaning",
+    image: "https://m.media-amazon.com/images/I/71RAA5qZoGL._SL1500_.jpg",
+    affiliateUrl: "https://link.amazon/B03TcXuT4",
+    category: "Home Improvements",
   },
 ];
