@@ -457,4 +457,11 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/3SCdxSk",
     category: "Kitchen",
   },
+  {
+    id: 94,
+    name: "Spin Mop & Bucket Floor Cleaning",
+    image: "https://m.media-amazon.com/images/I/81ymYkfT+WL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4vShelx",
+    category: "Home Improvements",
+  },
 ];
