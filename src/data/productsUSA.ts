@@ -458,10 +458,17 @@ export const productsUSA: Product[] = [
     category: "Kitchen",
   },
   {
-    id: 94,
+    id: 66,
     name: "Spin Mop & Bucket Floor Cleaning",
     image: "https://m.media-amazon.com/images/I/81ymYkfT+WL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4vShelx",
     category: "Home Improvements",
   },
+  {
+    id: 67,
+    name: "Wireless Water Can Dispenser Pump",
+    image: "https://m.media-amazon.com/images/I/71kCEsiU83L._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4bcA4M0",
+    category: "Kitchen",
+  }
 ];
