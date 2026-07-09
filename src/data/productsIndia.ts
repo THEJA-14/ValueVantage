@@ -662,4 +662,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://link.amazon/B03TcXuT4",
     category: "Home Improvements",
   },
+  {
+    id: 95,
+    name: "Wireless Water Can Dispenser Pump",
+    image: "https://m.media-amazon.com/images/I/61+gvsVCj0L._SL1500_.jpg",
+    affiliateUrl: "https://link.amazon/B043fElnk",
+    category: "Kitchen",
+  },
 ];
