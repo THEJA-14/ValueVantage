@@ -669,4 +669,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://link.amazon/B043fElnk",
     category: "Kitchen",
   },
+  {
+    id: 96,
+    name: "Heat-Resistant Wooden Trivet for Hot Bowl",
+    image: "https://m.media-amazon.com/images/I/617n0u75VJL._SL1429_.jpg",
+    affiliateUrl: "https://link.amazon/B07HXLA13",
+    category: "Kitchen",
+  },
 ];
