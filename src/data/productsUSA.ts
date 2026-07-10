@@ -470,5 +470,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71kCEsiU83L._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4bcA4M0",
     category: "Kitchen",
+  },
+  {
+    id: 68,
+    name: "Heat-Resistant Wooden Trivet for Hot Bowl",
+    image: "https://m.media-amazon.com/images/I/71n41Zb-JoL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4w06thg",
+    category: "Kitchen",
   }
 ];
