@@ -676,4 +676,11 @@ export const productsIndia: Product[] = [
     affiliateUrl: "https://link.amazon/B07HXLA13",
     category: "Kitchen",
   },
+  {
+    id: 97,
+    name: " Clothes Drying Stand",
+    image: "https://m.media-amazon.com/images/I/71EVkbn83yL._AC_SL1500_.jpg",
+    affiliateUrl: "https://link.amazon/B02IoKgT4",
+    category: "Home Improvements",
+  }
 ];
