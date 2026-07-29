@@ -477,5 +477,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71n41Zb-JoL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4w06thg",
     category: "Kitchen",
+  },
+  {
+    id: 69,
+    name: " Clothes Drying Stand",
+    image: "https://m.media-amazon.com/images/I/71EVkbn83yL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4hBPTjg",
+    category: "Home Improvements",
   }
 ];
