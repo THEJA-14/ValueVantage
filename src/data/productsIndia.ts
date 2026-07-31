@@ -678,9 +678,16 @@ export const productsIndia: Product[] = [
   },
   {
     id: 97,
-    name: " Clothes Drying Stand",
+    name: "Clothes Drying Stand",
     image: "https://m.media-amazon.com/images/I/71EVkbn83yL._AC_SL1500_.jpg",
     affiliateUrl: "https://link.amazon/B02IoKgT4",
+    category: "Home Improvements",
+  },
+  {
+    id: 98,
+    name: "Bathroom Rotating Triangle Storage Rack",
+    image: "https://m.media-amazon.com/images/I/61aMditTaoL._SL1000_.jpg",
+    affiliateUrl: "https://link.amazon/B03J3pFY2",
     category: "Home Improvements",
   }
 ];
