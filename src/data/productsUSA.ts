@@ -484,5 +484,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71EVkbn83yL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4hBPTjg",
     category: "Home Improvements",
+  },
+  {
+    id: 70,
+    name: "Bathroom Rotating Triangle Storage Rack",
+    image: "https://m.media-amazon.com/images/I/51X4DmMjfPL._AC_.jpg",
+    affiliateUrl: "https://amzn.to/3S8jwOS",
+    category: "Home Improvements",
   }
 ];
