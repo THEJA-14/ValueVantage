@@ -692,7 +692,7 @@ export const productsIndia: Product[] = [
   },
   {
     id: 99,
-    name: "  Stainless Steel Mop and Broom Holder",
+    name: "Stainless Steel Mop and Broom Holder",
     image: "https://m.media-amazon.com/images/I/71yRs9cffXL._SL1500_.jpg",
     affiliateUrl: "https://link.amazon/B02NMOtm8",
     category: "Home Improvements",
