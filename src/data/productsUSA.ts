@@ -491,5 +491,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/51X4DmMjfPL._AC_.jpg",
     affiliateUrl: "https://amzn.to/3S8jwOS",
     category: "Home Improvements",
+  },
+  {
+    id: 71,
+    name: "Stainless Steel Mop and Broom Holder",
+    image: "https://m.media-amazon.com/images/I/71SHSEX2KJL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4z1QdhK",
+    category: "Home Improvements",
   }
 ];
