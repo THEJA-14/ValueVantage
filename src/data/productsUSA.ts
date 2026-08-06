@@ -498,5 +498,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/71SHSEX2KJL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4z1QdhK",
     category: "Home Improvements",
+  },
+  {
+    id: 72,
+    name: "Plastic Rolling Laundry Basket Hamper with Wheels",
+    image: "https://m.media-amazon.com/images/I/61LZ1sBMBiL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4fItrUy",
+    category: "Home Improvements",
   }
 ];
