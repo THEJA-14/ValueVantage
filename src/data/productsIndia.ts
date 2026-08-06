@@ -696,5 +696,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/71yRs9cffXL._SL1500_.jpg",
     affiliateUrl: "https://link.amazon/B02NMOtm8",
     category: "Home Improvements",
+  },
+  {
+    id: 100,
+    name: "Foldable Laundry Basket with Wheels",
+    image: "https://m.media-amazon.com/images/I/61IRBD--c9L._SL1500_.jpg",
+    affiliateUrl: "https://link.amazon/B0ezr1H8B",
+    category: "Home Improvements",
   }
 ];
