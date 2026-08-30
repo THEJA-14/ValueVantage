@@ -703,5 +703,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/61IRBD--c9L._SL1500_.jpg",
     affiliateUrl: "https://link.amazon/B0ezr1H8B",
     category: "Home Improvements",
+  },
+  {
+    id: 101,
+    name: "Car Back Seat Headrest Hooks",
+    image: "https://m.media-amazon.com/images/I/61sZV5h55JL._SL1280_.jpg",
+    affiliateUrl: "https://link.amazon/B0j8ub83G",
+    category: "Travel Accessories",
   }
 ];
