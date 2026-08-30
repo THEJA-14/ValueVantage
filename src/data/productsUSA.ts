@@ -505,5 +505,12 @@ export const productsUSA: Product[] = [
     image: "https://m.media-amazon.com/images/I/61LZ1sBMBiL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4fItrUy",
     category: "Home Improvements",
-  }
+  },
+  {
+    id: 73,
+    name: "Car Headrest Hooks",
+    image: "https://m.media-amazon.com/images/I/71FfyDw1VaL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4h0tuLR",
+    category: "Travel Accessories",
+  },
 ];
