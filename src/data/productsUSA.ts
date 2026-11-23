@@ -513,4 +513,11 @@ export const productsUSA: Product[] = [
     affiliateUrl: "https://amzn.to/4h0tuLR",
     category: "Travel Accessories",
   },
+  {
+    id: 74,
+    name: "Dish Washer with Soap Dispenser and Stand",
+    image: "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/417EYUo1xaL._AC_SL1000_.jpg",
+    affiliateUrl: "https://link.amazon/B0hWY2tRz",
+    category: "Kitchen",
+  }
 ];
