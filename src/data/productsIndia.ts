@@ -717,5 +717,5 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/61BPBxU2zWL._SL1500_.jpg",
     affiliateUrl: "https://link.amazon/B06hW63UX",
     category: "Kitchen",
-  },
+  }
 ];
