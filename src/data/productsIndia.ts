@@ -710,5 +710,12 @@ export const productsIndia: Product[] = [
     image: "https://m.media-amazon.com/images/I/61sZV5h55JL._SL1280_.jpg",
     affiliateUrl: "https://link.amazon/B0j8ub83G",
     category: "Travel Accessories",
-  }
+  },
+  {
+    id: 102,
+    name: "Dish Washer with Soap Dispenser and Stand",
+    image: "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/61BPBxU2zWL._SL1500_.jpg",
+    affiliateUrl: "https://link.amazon/B06hW63UX",
+    category: "Kitchen",
+  },
 ];
